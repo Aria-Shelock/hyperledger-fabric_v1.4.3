@@ -11,9 +11,12 @@ Hyperledger Fabric：1.4.3
 ## 下载VMware，配置Ubuntu系统
 Ubuntu镜像：链接：https://pan.baidu.com/s/1eKKctAO75bRtLz3B6ORMfA 
             提取码：z8i9
+
 ## 换国内镜像源
 系统设置->软件和更新下载自->其他-> "mirrors.aliyun.com"
+
 完成后打开终端
+
 $ sudo apt update
 
 ## 设置root密码
