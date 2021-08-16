@@ -1,8 +1,11 @@
 # hyperledger_v1.4.3
 操作系统：Ubuntu 20.04.2.0
 Go：1.11.11
+
 Docker：20.10.7
+
 Docker Compose：1.25.0
+
 Hyperledger Fabric：1.4.3
 
 ## 下载VMware，配置Ubuntu系统
